@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gaurav-gupta-960027286/"><img src="https://img.shields.io/badge/LinkedIn-2B2B2B?style=for-the-badge&logo=linkedin&logoColor=D9A55B" /></a>
-  <a href="https://x.com/GauravGupta1632"><img src="https://img.shields.io/badge/X-2B2B2B?style=for-the-badge&logo=x&logoColor=D9A55B" /></a>
+  <a href="https://gaurav-gupta-rho.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2B2B2B?style=for-the-badge&logo=googlechrome&logoColor=D9A55B" /></a>
   <a href="https://leetcode.com/u/gauravgupta654/"><img src="https://img.shields.io/badge/LeetCode-2B2B2B?style=for-the-badge&logo=leetcode&logoColor=D9A55B" /></a>
 </p>
 
@@ -81,7 +81,7 @@ currently_building: Personal portfolio — IDE/code-editor inspired UI
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gaurav-gupta-960027286/">LinkedIn</a> ·
-  <a href="https://x.com/GauravGupta1632">X / Twitter</a> ·
+  <a href="https://gaurav-gupta-rho.vercel.app/">Portfolio</a> ·
   <a href="https://leetcode.com/u/gauravgupta654/">LeetCode</a>
 </p>
 
