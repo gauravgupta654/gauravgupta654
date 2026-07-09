@@ -46,8 +46,8 @@ currently_building: Personal portfolio — IDE/code-editor inspired UI
       <p>Conversational chatbot project — Python</p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/gauravgupta654/CarPooling">CarPooling</a></h3>
-      <p>Ride-sharing app to cut costs & emissions — Kotlin</p>
+      <h3><a href="https://github.com/gauravgupta654/VibePool">VibePool</a></h3>
+      <p>Ride-sharing app to cut costs & emissions — React</p>
     </td>
   </tr>
   <tr>
